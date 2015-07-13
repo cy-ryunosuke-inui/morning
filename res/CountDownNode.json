@@ -1,0 +1,127 @@
+{
+  "ID": "7cafd072-1763-45b4-92db-65ec470fca06",
+  "Version": "2.3.0.1",
+  "Name": "CountDownNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 81,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "countdown_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -211.5,
+            "RightMargin": -211.5,
+            "TopMargin": -211.5,
+            "BottomMargin": -211.5,
+            "Tag": 82,
+            "ActionTag": -1556163745,
+            "Size": {
+              "X": 423.0,
+              "Y": 423.0
+            },
+            "Name": "countdown_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 100,
+            "LabelText": "5",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -45.5,
+            "RightMargin": -45.5,
+            "TopMargin": -11.5,
+            "BottomMargin": -11.5,
+            "Tag": 83,
+            "ActionTag": -953474838,
+            "Size": {
+              "X": 55.0,
+              "Y": 113.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "countdown_bg.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

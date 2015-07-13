@@ -1,0 +1,239 @@
+{
+  "ID": "28ae68d4-ebcc-40ed-9ef2-8561ba33e96d",
+  "Version": "2.3.0.1",
+  "Name": "GameScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 11,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 5,
+            "ActionTag": -1157296867,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "game_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "timeup_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 960.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.9
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 80,
+            "ActionTag": 1989105308,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "timeup_bg_41",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 29,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "メッセージを入力して下さい",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 239.5574,
+              "Y": 44.5057
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 102,
+              "G": 102,
+              "B": 102
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3743,
+              "Y": 0.0464
+            },
+            "PreSize": {
+              "X": 0.6719,
+              "Y": 0.0365
+            },
+            "LeftMargin": 24.5574,
+            "RightMargin": 185.4426,
+            "TopMargin": 897.9943,
+            "BottomMargin": 27.0057,
+            "Tag": 7,
+            "ActionTag": 806797214,
+            "Size": {
+              "X": 430.0,
+              "Y": 35.0
+            },
+            "Name": "TextField_1",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "send_btn2.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "send_btn2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "send_btn.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 113,
+            "Scale9Height": 41,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 553.16,
+              "Y": 43.01
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8643,
+              "Y": 0.0448
+            },
+            "PreSize": {
+              "X": 0.2234,
+              "Y": 0.0656
+            },
+            "LeftMargin": 481.66,
+            "RightMargin": 15.34,
+            "TopMargin": 885.49,
+            "BottomMargin": 11.51,
+            "Tag": 11,
+            "ActionTag": 352945958,
+            "Size": {
+              "X": 143.0,
+              "Y": 63.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "send_btn.png",
+        "send_btn2.png",
+        "timeup_bg.png",
+        "game_bg.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

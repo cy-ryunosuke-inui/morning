@@ -1,0 +1,266 @@
+{
+  "ID": "a27ef576-f3e9-4a3f-8d3d-4898c47c9450",
+  "Version": "2.3.0.1",
+  "Name": "ChatNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 6,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "comment_me.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 447.3282,
+              "Y": -87.4184
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 427.8282,
+            "RightMargin": -466.8282,
+            "TopMargin": 66.4184,
+            "BottomMargin": -108.4184,
+            "Tag": 13,
+            "ActionTag": 1011578454,
+            "Size": {
+              "X": 39.0,
+              "Y": 42.0
+            },
+            "Name": "comment_you_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "chat_me_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 243.4045,
+              "Y": -86.5099
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 57.9045,
+            "RightMargin": -428.9045,
+            "TopMargin": 43.5099,
+            "BottomMargin": -129.5099,
+            "Tag": 14,
+            "ActionTag": 793509077,
+            "Size": {
+              "X": 371.0,
+              "Y": 86.0
+            },
+            "Name": "chat_you_bg_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "icon2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 475.4065,
+              "Y": -112.9902
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 475.4065,
+            "RightMargin": -575.4065,
+            "TopMargin": 12.9902,
+            "BottomMargin": -112.9902,
+            "Tag": 16,
+            "ActionTag": -380454170,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "icon1_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "役割名",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 379.8682,
+              "Y": -27.8808
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 102,
+              "G": 102,
+              "B": 102
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 349.8682,
+            "RightMargin": -409.8682,
+            "TopMargin": 16.3808,
+            "BottomMargin": -39.3808,
+            "Tag": 17,
+            "ActionTag": 34744999,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Text Fieldss",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 241.5948,
+              "Y": -86.3526
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 102,
+              "G": 102,
+              "B": 102
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 71.5948,
+            "RightMargin": -411.5948,
+            "TopMargin": 61.3526,
+            "BottomMargin": -111.3526,
+            "Tag": 19,
+            "ActionTag": -331372366,
+            "Size": {
+              "X": 340.0,
+              "Y": 50.0
+            },
+            "Name": "TextField_1",
+            "ctype": "TextFieldObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "icon2.png",
+        "chat_me_bg.png",
+        "comment_me.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}
