@@ -255,9 +255,9 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "comment_you.png",
         "icon1.png",
-        "chat_you_bg.png"
+        "chat_you_bg.png",
+        "comment_you.png"
       ],
       "ctype": "GameProjectData"
     }

@@ -66,23 +66,22 @@
               "Dst": 771
             },
             "AnchorPoint": {
-              "ScaleX": 0.5,
-              "ScaleY": 0.5
+              "ScaleY": 1.0
             },
             "Position": {
-              "X": 320.0,
-              "Y": 480.0
+              "X": 0.0,
+              "Y": 960.0
             },
             "Scale": {
               "ScaleX": 1.0,
-              "ScaleY": 1.0
+              "ScaleY": 0.9
             },
             "Alpha": 0,
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.5,
-              "Y": 0.5
+              "X": 0.0,
+              "Y": 1.0
             },
             "PreSize": {
               "X": 0.0,
@@ -228,10 +227,10 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "game_bg.png",
         "send_btn.png",
         "send_btn2.png",
-        "timeup_bg.png"
+        "timeup_bg.png",
+        "game_bg.png"
       ],
       "ctype": "GameProjectData"
     }

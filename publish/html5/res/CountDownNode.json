@@ -62,6 +62,7 @@
           {
             "FontSize": 100,
             "LabelText": "5",
+            "OutlineSize": 0,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -71,6 +72,8 @@
               "G": 110,
               "B": 110
             },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
             "AnchorPoint": {
               "ScaleX": 0.5,
               "ScaleY": 0.5

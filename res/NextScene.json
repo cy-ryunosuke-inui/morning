@@ -154,10 +154,10 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": 175.91,
-            "RightMargin": 189.09,
-            "TopMargin": 575.5861,
-            "BottomMargin": 328.414,
+            "LeftMargin": 313.41,
+            "RightMargin": 326.59,
+            "TopMargin": 603.586,
+            "BottomMargin": 356.414,
             "Tag": 9,
             "ActionTag": 779299859,
             "Size": {
@@ -234,6 +234,8 @@
             "RightMargin": 163.3649,
             "TopMargin": 241.833,
             "BottomMargin": 621.167,
+            "CallBackType": "Touch",
+            "CallBackName": "test",
             "Tag": 17,
             "ActionTag": 535472861,
             "Size": {
