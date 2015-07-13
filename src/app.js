@@ -111,7 +111,6 @@ var MainGameLayer = cc.Layer.extend({
 
         // チャット入力用TextField
         this.textField = gamescene.node.getChildByName("TextField_1");
-        //this.textField.attachWithIME();
 
         // チャット送信用ボタンにイベントを入れる
         var sendBtn = gamescene.node.getChildByName("Button_1");
